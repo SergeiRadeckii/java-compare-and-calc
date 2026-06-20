@@ -1,4 +1,4 @@
-ame: Run Java Even Numbers
+name: Run Java Even Numbers
 
 on:
   workflow_dispatch:
