@@ -1,0 +1,20 @@
+cat > .gitignore <<'EOF'
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# build
+out/
+target/
+*.class
+
+# user folders
+Applications/
+Desktop/
+Documents/
+Downloads/
+Library/
+EOF
