@@ -32,3 +32,10 @@ bin/
 *.class
 .idea/
 *.class
+
+# Java
+*.class
+/out/
+/target/
+/.idea/
+*.iml
